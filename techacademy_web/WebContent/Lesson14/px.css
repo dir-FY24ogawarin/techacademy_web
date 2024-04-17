@@ -1,0 +1,15 @@
+p{
+	front-size: 10px;
+}
+
+p.important{
+	font-size: 20px;
+}
+
+div.normal{
+	font-size: 10px;
+}
+
+div.normal p {
+	font-size: 200%;
+}
